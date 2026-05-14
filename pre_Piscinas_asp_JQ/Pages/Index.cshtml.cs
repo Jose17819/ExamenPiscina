@@ -11,21 +11,25 @@ namespace pre_Piscinas_asp_JQ.Pages
         public List<Tipos>? Tipos { get; set; }
 
         [BindProperty] public Piscina? Entidad { get; set; }
+        [BindProperty(SupportsGet = true)] public string? Buscar { get; set; }
 
         private string UrlBase = "http://localhost:5252";
 
         public void OnGet()
         {
             CargarDatos();
-        }
 
+            if (!string.IsNullOrEmpty(Buscar))
+                Piscina = Piscina!
+                    .Where(p => p.Nombre!.ToLower()
+                    .Contains(Buscar.ToLower()))
+                    .ToList();
+        }
 
         public void OnPostEliminar(int id)
         {
-            // Primero cargar datos para tener la lista
             CargarDatos();
 
-            // Buscar nombre del planeta
             var piscinaEliminar = Piscina?.FirstOrDefault(p => p.Id == id);
 
             var datos = new Dictionary<string, object>();
@@ -36,7 +40,6 @@ namespace pre_Piscinas_asp_JQ.Pages
             var task = comunicaciones.Ejecutar<object>(datos)!;
             task.Wait();
 
-            // Registrar historico con el nombre
             var historico = new Historicos
             {
                 Descripcion = $"Se eliminó la Piscina {piscinaEliminar?.Nombre ?? id.ToString()}",
@@ -53,8 +56,6 @@ namespace pre_Piscinas_asp_JQ.Pages
 
             CargarDatos();
         }
-
-
 
         private void CargarDatos()
         {

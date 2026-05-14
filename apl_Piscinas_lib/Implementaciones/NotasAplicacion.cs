@@ -100,6 +100,15 @@ namespace apl_Piscinas_lib_JQ.Implementaciones
                 return 5.2m;
         }
 
+        public Piscina ConsultarId(int id)
+        {
+            this.iConexion = new Conexion();
+            this.iConexion.string_conexion = Configuraciones.obtener("string_conexion");
+
+            return this.iConexion.Piscina!
+                .Where(x => x.Id == id).FirstOrDefault()!;
+        }
+
 
     }
 }

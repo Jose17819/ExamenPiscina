@@ -72,6 +72,7 @@ C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\D
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\ser_piscinass_asp_JQ.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\ser_piscinass_asp_JQ.RazorAssemblyInfo.cache
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\ser_piscinass_asp_JQ.RazorAssemblyInfo.cs
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\ser_piscinass_asp_JQ.sourcelink.json
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\ser_piscinass_asp_JQ\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

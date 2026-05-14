@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Text;
 using System.Text.Json;
+
 
 namespace pre_Piscinas_asp_JQ.Pages
 {
@@ -39,6 +41,24 @@ namespace pre_Piscinas_asp_JQ.Pages
             var descuento =
                 await http.GetStringAsync(
                 $"http://localhost:5252/Piscina/CalcularDescuento?edad={Edad}&esFechaEspecial={EsFechaEspecial}");
+
+            // guardar en histórico
+            var historico = new
+            {
+                Descripcion = $"Se realizó una reserva para la piscina {PiscinaId} con descuento de {descuento}%",
+                Fecha = DateTime.Now
+            };
+
+            var contenido =
+                new StringContent(
+                    JsonSerializer.Serialize(historico),
+                    Encoding.UTF8,
+                    "application/json");
+
+            await http.PostAsync(
+                "http://localhost:5252/Historicos/Guardar",
+                contenido);
+
 
             Mensaje =
                 $"Reserva válida. Descuento aplicado: {descuento}%";

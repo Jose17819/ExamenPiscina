@@ -1,0 +1,40 @@
+﻿@page
+@model pre_Piscinas_asp_JQ.Pages.ConsultarModel
+
+<h2>Consultar Piscina</h2>
+
+<hr />
+
+@if (Model.Piscina != null)
+{
+    <div class="card p-4">
+
+        <h4>@Model.Piscina.Nombre</h4>
+
+        <p>
+            <strong>Id:</strong>
+            @Model.Piscina.Id
+        </p>
+
+        <p>
+            <strong>Tamaño:</strong>
+            @Model.Piscina.Tamaño
+        </p>
+
+        <p>
+            <strong>Número máximo:</strong>
+            @Model.Piscina.NumerMax
+        </p>
+
+        <p>
+            <strong>Tipo:</strong>
+            @Model.Piscina.Tipo
+        </p>
+
+        <a asp-page="./Index"
+           class="btn btn-secondary">
+            Volver
+        </a>
+
+    </div>
+}

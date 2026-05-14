@@ -72,6 +72,13 @@ namespace ser_piscinass_asp_JQ.Controllers
         }
 
 
+        [HttpGet]
+        [Route("ConsultarId")]
+        public Piscina ConsultarId(int id)
+        {
+            return iPiscinasAplicacion.ConsultarId(id);
+        }
+
     }
 
 }

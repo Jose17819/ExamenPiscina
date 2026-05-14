@@ -3,6 +3,13 @@
 
 <h2>Piscinas</h2>
 
+<form method="get">
+    <input type="text" name="Buscar" value="@Model.Buscar"
+           placeholder="Buscar por nombre..." />
+    <button type="submit">Buscar</button>
+    <a href="/Index">Limpiar</a>
+</form>
+
 <hr />
 
 <table class="table table-bordered table-striped">
@@ -11,7 +18,7 @@
             <th>Id</th>
             <th>Nombre</th>
             <th>Tamaño</th>
-            <th>NumerMax</th>
+            <th>Numero Maximo</th>
             <th>Tipo</th>
             <th>Acciones</th>
         </tr>
@@ -26,15 +33,22 @@
                 <td>@piscina.NumerMax</td>
                 <td>@piscina._Tipo?.Nombre</td>
                 <td>
-                    <a asp-page="/Editar" asp-route-id="@piscina.Id" class="btn btn-sm btn-primary">Editar</a>
-                    <form method="post">
+                    <a asp-page="/Editar"
+                       asp-route-id="@piscina.Id"
+                       class="btn btn-sm btn-primary me-2">
+                        Editar
+                    </a>
+                    <form method="post" style="display:inline;">
                         <input type="hidden" name="Entidad.Id" value="@piscina.Id" />
                         <input type="hidden" name="Entidad.Nombre" value="@piscina.Nombre" />
                         <input type="hidden" name="Entidad.NumerMax" value="@piscina.NumerMax" />
                         <input type="hidden" name="Entidad.Tamaño" value="@piscina.Tamaño" />
                         <input type="hidden" name="Entidad.Tipo" value="@piscina.Tipo" />
-                        <button type="submit" asp-page-handler="Eliminar"
-                                asp-route-id="@piscina.Id">
+                        <button type="submit"
+                                asp-page-handler="Eliminar"
+                                asp-route-id="@piscina.Id"
+                                class="btn btn-sm btn-danger"
+                                onclick="return confirm('¿Seguro que deseas eliminar esta piscina?')">
                             Eliminar
                         </button>
                     </form>
@@ -43,3 +57,8 @@
         }
     </tbody>
 </table>
+
+@if (!Model.Piscina!.Any())
+{
+    <p>No se encontraron piscinas.</p>
+}

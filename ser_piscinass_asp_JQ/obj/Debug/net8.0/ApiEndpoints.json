@@ -98,6 +98,32 @@
   },
   {
     "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "ConsultarId",
+    "RelativePath": "Piscina/ConsultarId/ConsultarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Piscina",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
     "Method": "Editar",
     "RelativePath": "Piscina/Editar",
     "HttpMethod": "PUT",

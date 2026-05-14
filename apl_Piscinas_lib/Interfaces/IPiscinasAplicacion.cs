@@ -12,6 +12,7 @@ namespace apl_Piscinas_lib_JQ.Interfaces
 
 
         List<Piscina> Consultar();
+        Piscina ConsultarId(int id);
         Piscina Guardar(Piscina entidad);
         Piscina Editar(Piscina entidad);
         void Eliminar(int id);

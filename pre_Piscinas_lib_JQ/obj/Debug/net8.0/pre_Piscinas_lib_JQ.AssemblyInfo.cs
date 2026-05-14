@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pre_Piscinas_lib_JQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a80bb91a1144b0ecf0991a46aaea922d5528bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("pre_Piscinas_lib_JQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pre_Piscinas_lib_JQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
