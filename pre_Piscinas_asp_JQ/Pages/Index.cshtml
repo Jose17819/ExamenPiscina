@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+
+<h2>Piscinas</h2>
+
+<hr />
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Tamaño</th>
+            <th>NumerMax</th>
+            <th>Tipo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var piscina in Model.Piscina!)
+        {
+            <tr>
+                <td>@piscina.Id</td>
+                <td>@piscina.Nombre</td>
+                <td>@piscina.Tamaño</td>
+                <td>@piscina.NumerMax</td>
+                <td>@piscina._Tipo?.Nombre</td>
+                <td>
+                    <a asp-page="/Editar" asp-route-id="@piscina.Id" class="btn btn-sm btn-primary">Editar</a>
+                    <form method="post">
+                        <input type="hidden" name="Entidad.Id" value="@piscina.Id" />
+                        <input type="hidden" name="Entidad.Nombre" value="@piscina.Nombre" />
+                        <input type="hidden" name="Entidad.NumerMax" value="@piscina.NumerMax" />
+                        <input type="hidden" name="Entidad.Tamaño" value="@piscina.Tamaño" />
+                        <input type="hidden" name="Entidad.Tipo" value="@piscina.Tipo" />
+                        <button type="submit" asp-page-handler="Eliminar"
+                                asp-route-id="@piscina.Id">
+                            Eliminar
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

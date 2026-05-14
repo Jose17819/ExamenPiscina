@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

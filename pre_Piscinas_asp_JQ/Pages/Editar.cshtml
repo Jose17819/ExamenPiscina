@@ -1,0 +1,30 @@
+﻿@page
+@model EditarModel
+
+<h2>Editar Piscina</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Entidad!.Id" />
+    <div>
+        <label>Nombre</label>
+        <input asp-for="Entidad!.Nombre" />
+    </div>
+    <div>
+        <label>Tamaño</label>
+        <input asp-for="Entidad!.Tamaño" />
+    </div>
+    <div>
+        <label>Numero Maximo</label>
+        <input asp-for="Entidad!.NumerMax" />
+    </div>
+    <div>
+        <label>Tipo</label>
+        <select asp-for="Entidad!.Tipo"
+                asp-items="@(new SelectList(Model.Tipos, "Id", "Nombre"))">
+            <option value="">-- Seleccione --</option>
+        </select>
+    </div>
+
+    <button type="submit" asp-page-handler="Editar">Guardar cambios</button>
+    <a href="/Index">Cancelar</a>
+</form>

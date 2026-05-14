@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentaciones", "Presentaciones", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicios", "Servicios", "{99855FB1-FEBC-4AEC-A205-C287E4F78924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apl_Piscinas_lib_JQ", "apl_Piscinas_lib\apl_Piscinas_lib_JQ.csproj", "{5217A938-0ECA-4B74-A15A-4B2512B855C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre_Piscinas_asp_JQ", "pre_Piscinas_asp_JQ\pre_Piscinas_asp_JQ.csproj", "{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre_Piscinas_lib_JQ", "pre_Piscinas_lib_JQ\pre_Piscinas_lib_JQ.csproj", "{274594C4-5759-4B3F-824F-31404680BEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ser_piscinass_asp_JQ", "ser_piscinass_asp_JQ\ser_piscinass_asp_JQ.csproj", "{D2E89E97-02CC-4356-9EB8-96844A1E4973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5217A938-0ECA-4B74-A15A-4B2512B855C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5217A938-0ECA-4B74-A15A-4B2512B855C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5217A938-0ECA-4B74-A15A-4B2512B855C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5217A938-0ECA-4B74-A15A-4B2512B855C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274594C4-5759-4B3F-824F-31404680BEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274594C4-5759-4B3F-824F-31404680BEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274594C4-5759-4B3F-824F-31404680BEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274594C4-5759-4B3F-824F-31404680BEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E89E97-02CC-4356-9EB8-96844A1E4973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E89E97-02CC-4356-9EB8-96844A1E4973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E89E97-02CC-4356-9EB8-96844A1E4973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E89E97-02CC-4356-9EB8-96844A1E4973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5217A938-0ECA-4B74-A15A-4B2512B855C1} = {99855FB1-FEBC-4AEC-A205-C287E4F78924}
+		{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{274594C4-5759-4B3F-824F-31404680BEFB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D2E89E97-02CC-4356-9EB8-96844A1E4973} = {99855FB1-FEBC-4AEC-A205-C287E4F78924}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAA8E935-145C-46D9-A79E-B4280D8CB2CA}
+	EndGlobalSection
+EndGlobal

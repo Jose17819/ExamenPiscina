@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<ProjectReference Include="..\apl_Piscinas_lib\apl_Piscinas_lib_JQ.csproj" />
+		<ProjectReference Include="..\pre_Piscinas_lib_JQ\pre_Piscinas_lib_JQ.csproj" />
+	</ItemGroup>
+
+
+</Project>

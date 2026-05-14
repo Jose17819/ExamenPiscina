@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\nucleo\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\nucleo\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\interfaces\\ihistoricosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\interfaces\\ihistoricosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\interfaces\\ipiscinasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\interfaces\\ipiscinasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\apl_piscinas_lib_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\apl_piscinas_lib_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\ser_piscinass_asp_jq\\controllers\\piscinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|solutionrelative:ser_piscinass_asp_jq\\controllers\\piscinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\ser_piscinass_asp_jq\\controllers\\historicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|solutionrelative:ser_piscinass_asp_jq\\controllers\\historicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\implementaciones\\notasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\implementaciones\\notasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\reservar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\reservar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\agregar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\agregar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\ser_piscinass_asp_jq\\controllers\\tiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|solutionrelative:ser_piscinass_asp_jq\\controllers\\tiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pre_piscinas_asp_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pre_piscinas_asp_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274594C4-5759-4B3F-824F-31404680BEFB}|pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_lib_jq\\pre_piscinas_lib_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{274594C4-5759-4B3F-824F-31404680BEFB}|pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj|solutionrelative:pre_piscinas_lib_jq\\pre_piscinas_lib_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\ser_piscinass_asp_jq\\ser_piscinass_asp_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|solutionrelative:ser_piscinass_asp_jq\\ser_piscinass_asp_jq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\implementaciones\\historicosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\implementaciones\\historicosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\historicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\historicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\ser_piscinass_asp_jq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E89E97-02CC-4356-9EB8-96844A1E4973}|ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj|solutionrelative:ser_piscinass_asp_jq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\pages\\historicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\pages\\historicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_asp_jq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248CBAA-09F1-4D0D-A0FD-F9C76A987BD5}|pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj|solutionrelative:pre_piscinas_asp_jq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274594C4-5759-4B3F-824F-31404680BEFB}|pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\pre_piscinas_lib_jq\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274594C4-5759-4B3F-824F-31404680BEFB}|pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj|solutionrelative:pre_piscinas_lib_jq\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\entidades\\piscina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\entidades\\piscina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\entidades\\historicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\entidades\\historicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|c:\\users\\quint\\onedrive\\escritorio\\c#\\examen_piscinas\\apl_piscinas_lib\\entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217A938-0ECA-4B74-A15A-4B2512B855C1}|apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj|solutionrelative:apl_piscinas_lib\\entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoricosController.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\HistoricosController.cs",
+              "RelativeDocumentMoniker": "ser_piscinass_asp_JQ\\Controllers\\HistoricosController.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\HistoricosController.cs",
+              "RelativeToolTip": "ser_piscinass_asp_JQ\\Controllers\\HistoricosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:20:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:03:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHistoricosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IHistoricosAplicacion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Interfaces\\IHistoricosAplicacion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IHistoricosAplicacion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Interfaces\\IHistoricosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:04:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPiscinasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IPiscinasAplicacion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Interfaces\\IPiscinasAplicacion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Interfaces\\IPiscinasAplicacion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Interfaces\\IPiscinasAplicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:04:26.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PiscinaController.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\PiscinaController.cs",
+              "RelativeDocumentMoniker": "ser_piscinass_asp_JQ\\Controllers\\PiscinaController.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\PiscinaController.cs",
+              "RelativeToolTip": "ser_piscinass_asp_JQ\\Controllers\\PiscinaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:21:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "apl_Piscinas_lib_JQ.csproj",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj",
+              "RelativeToolTip": "apl_Piscinas_lib\\apl_Piscinas_lib_JQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T11:28:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuraciones.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Nucleo\\Configuraciones.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Nucleo\\Configuraciones.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Nucleo\\Configuraciones.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Nucleo\\Configuraciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:01:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\NotasAplicacion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Implementaciones\\NotasAplicacion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\NotasAplicacion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Implementaciones\\NotasAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:03:30.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservar.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T15:40:24.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Agregar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:37:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Reservar.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvygAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:40:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:22:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T13:22:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T14:16:08.694Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TiposController.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\TiposController.cs",
+              "RelativeDocumentMoniker": "ser_piscinass_asp_JQ\\Controllers\\TiposController.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Controllers\\TiposController.cs",
+              "RelativeToolTip": "ser_piscinass_asp_JQ\\Controllers\\TiposController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:22:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pre_Piscinas_asp_JQ.csproj",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\pre_Piscinas_asp_JQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T11:25:33.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "pre_Piscinas_lib_JQ.csproj",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj",
+              "RelativeDocumentMoniker": "pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj",
+              "RelativeToolTip": "pre_Piscinas_lib_JQ\\pre_Piscinas_lib_JQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T11:27:07.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ser_piscinass_asp_JQ.csproj",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj",
+              "RelativeDocumentMoniker": "ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj",
+              "RelativeToolTip": "ser_piscinass_asp_JQ\\ser_piscinass_asp_JQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T11:52:23.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistoricosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\HistoricosAplicacion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Implementaciones\\HistoricosAplicacion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\HistoricosAplicacion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Implementaciones\\HistoricosAplicacion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Agregar.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T12:37:07.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:44:31.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Index.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T12:52:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Historicos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:43:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Program.cs",
+              "RelativeDocumentMoniker": "ser_piscinass_asp_JQ\\Program.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\ser_piscinass_asp_JQ\\Program.cs",
+              "RelativeToolTip": "ser_piscinass_asp_JQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:53:39.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Piscina.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Piscina.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Entidades\\Piscina.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Piscina.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Entidades\\Piscina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:55:02.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Historicos.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Historicos.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Entidades\\Historicos.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Historicos.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Entidades\\Historicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:54:24.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Historicos.cshtml",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Pages\\Historicos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T12:42:40.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Program.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_asp_JQ\\Program.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_asp_JQ\\Program.cs",
+              "RelativeToolTip": "pre_Piscinas_asp_JQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:35:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_lib_JQ\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "pre_Piscinas_lib_JQ\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\pre_Piscinas_lib_JQ\\Comunicaciones.cs",
+              "RelativeToolTip": "pre_Piscinas_lib_JQ\\Comunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:24:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Tipos.cs",
+              "RelativeDocumentMoniker": "apl_Piscinas_lib\\Entidades\\Tipos.cs",
+              "ToolTip": "C:\\Users\\quint\\OneDrive\\Escritorio\\C#\\Examen_Piscinas\\apl_Piscinas_lib\\Entidades\\Tipos.cs",
+              "RelativeToolTip": "apl_Piscinas_lib\\Entidades\\Tipos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:55:25.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

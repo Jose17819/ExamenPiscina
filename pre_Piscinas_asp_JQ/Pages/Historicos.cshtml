@@ -1,0 +1,24 @@
+﻿@page
+@model HistoricosModel
+
+<h2>Historicos</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Descripcion</th>
+            <th>Fecha</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var historico in Model.Historicos!)
+        {
+            <tr>
+                <td>@historico.Id</td>
+                <td>@historico.Descripcion</td>
+                <td>@historico.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,219 @@
+[
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.HistoricosController",
+    "Method": "Consultar",
+    "RelativePath": "Historicos/Consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[apl_Piscinas_lib_JQ.Entidades.Historicos, apl_Piscinas_lib_JQ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.HistoricosController",
+    "Method": "Guardar",
+    "RelativePath": "Historicos/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entidad",
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Historicos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Historicos",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "CalcularDescuento",
+    "RelativePath": "Piscina/CalcularDescuento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "edad",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "esFechaEspecial",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "Consultar",
+    "RelativePath": "Piscina/Consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[apl_Piscinas_lib_JQ.Entidades.Piscina, apl_Piscinas_lib_JQ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "Editar",
+    "RelativePath": "Piscina/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entidad",
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Piscina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Piscina",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "Eliminar",
+    "RelativePath": "Piscina/Eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "Guardar",
+    "RelativePath": "Piscina/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entidad",
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Piscina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "apl_Piscinas_lib_JQ.Entidades.Piscina",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.PiscinaController",
+    "Method": "ValidarCupo",
+    "RelativePath": "Piscina/ValidarCupo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ser_piscinass_asp_JQ.Controllers.TiposController",
+    "Method": "Consultar",
+    "RelativePath": "Tipos/Consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[apl_Piscinas_lib_JQ.Entidades.Tipos, apl_Piscinas_lib_JQ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

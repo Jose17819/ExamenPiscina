@@ -1,0 +1,12 @@
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\bin\Debug\net8.0\apl_Piscinas_lib_JQ.deps.json
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\bin\Debug\net8.0\apl_Piscinas_lib_JQ.dll
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\bin\Debug\net8.0\apl_Piscinas_lib_JQ.pdb
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.csproj.AssemblyReference.cache
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.AssemblyInfoInputs.cache
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.AssemblyInfo.cs
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.csproj.CoreCompileInputs.cache
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.dll
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\refint\apl_Piscinas_lib_JQ.dll
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\apl_Piscinas_lib_JQ.pdb
+C:\Users\quint\OneDrive\Escritorio\C#\Examen_Piscinas\apl_Piscinas_lib\obj\Debug\net8.0\ref\apl_Piscinas_lib_JQ.dll
